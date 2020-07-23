@@ -13,5 +13,6 @@ I'm a Computer Science at the [University of Toronto](https://www.utsc.utoronto.
 <a href="https://www.instagram.com/johnson.s.u/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="johnson.s.u" height="28" width="28" /></a>
 </p>
 
+[LinkedIn](https://www.linkedin.com/in/johnson-su/) | [Instagram](https://www.instagram.com/johnson.s.u/) | [Facebook](https://www.facebook.com/CrispyCrunchCapt)
 
 
