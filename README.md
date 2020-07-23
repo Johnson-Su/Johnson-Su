@@ -8,6 +8,4 @@ Check out my work (and the process behind it) at [sujohnson.com](https://sujohns
  -   Developing my own app for tracking/managing medications for the elderly</br>
  -   Hiding text (mainly the Bee Movie script) into images with [steganography](https://en.wikipedia.org/wiki/Steganography)</br>
  
-[LinkedIn](https://www.linkedin.com/in/johnson-su/) | [Devpost](https://devpost.com/Johnson-Su) | [Instagram](https://www.instagram.com/johnson.s.u/) | [Facebook](https://www.facebook.com/CrispyCrunchCapt)
-
-
+[LinkedIn](https://www.linkedin.com/in/johnson-su/) | [Devpost](https://devpost.com/Johnson-Su) | [Instagram](https://www.instagram.com/johnson.s.u/)
