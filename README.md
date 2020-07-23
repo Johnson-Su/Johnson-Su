@@ -1,6 +1,7 @@
 ## Hi there 👋  I'm Johnson Su
 
-I'm a Computer Science student at the [University of Toronto](https://www.utsc.utoronto.ca/home/). Currently I'm interested in machine learning and product design </br>
+I'm a Computer Science student at the [University of Toronto](https://www.utsc.utoronto.ca/home/)!</br>
+Currently I'm interested in machine learning and product design </br>
 
 ### What am I currently working on?
  -   Object recognition for [Farmbot](https://farm.bot/) with the NVIDIA Jetson Nano.</br>
