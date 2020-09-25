@@ -7,5 +7,6 @@ Check out my work (and the process behind it) at [sujohnson.com](https://sujohns
  -   Object recognition for [Farmbot](https://farm.bot/) with the NVIDIA Jetson Nano</br>
  -   Developing my own app for tracking/managing medications for the elderly</br>
  -   Hiding text (mainly the Bee Movie script) into images with [steganography](https://en.wikipedia.org/wiki/Steganography)</br>
+ -   Completely redesigning a website for MediPaint</br>
  
 [LinkedIn](https://www.linkedin.com/in/johnson-su/) | [Devpost](https://devpost.com/Johnson-Su) | [Instagram](https://www.instagram.com/johnson.s.u/)
